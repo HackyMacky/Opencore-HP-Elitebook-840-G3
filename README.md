@@ -5,9 +5,9 @@ A repository of Opencore configuration made for the HP Elitebook 840 G3
 I will not be held responsible for any damage, permanent loss of data or any sorts of consequences that may arise by using my configuration files on your devices. Please use at your own risk.
 
 ## Current Release
-- Opencore 0.7.9
-- Monterey 12.3
-- All latest kexts as of March 31, 2022
+- Opencore 0.8.5
+- Monterey 12.6.1
+- All latest kexts as of Nov 1, 2022
 
 ## Notebook Specifications
 
@@ -33,12 +33,12 @@ I will not be held responsible for any damage, permanent loss of data or any sor
 - Display outputs DP
 - Speaker, Headphone jack, microphone
 - USB ports mapping
+- SD Card Reader
 - Sleep/wake/shutdown
 - Keyboard backlighting
 - All Continuity & Handoff features (need to have Apple native WLAN card.
 
 ## What's not working
-- SD Card reader
 - Fingerprint Reader
 
 ## Not tested
